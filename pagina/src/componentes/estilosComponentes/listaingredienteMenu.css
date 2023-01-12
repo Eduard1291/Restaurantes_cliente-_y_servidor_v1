@@ -1,0 +1,34 @@
+.ingredientesEdit{
+    width: 80%;
+    height: 400px;
+    overflow-y:scroll;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 10%;
+    border-radius: 50px;
+}
+.listaIngredientess{
+    background-color: aquamarine;
+    border-radius: 10px;
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    height: 30px;
+    margin-top: 10px;
+}
+.listaIngredientess:hover{
+    background-color: aqua;
+}
+.elementomenu{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+.tituloIngredientes{
+    margin-left: 10%;
+}
+.lineaIngredientes{
+    width: 80%;
+}

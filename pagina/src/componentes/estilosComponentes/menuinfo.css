@@ -1,0 +1,10 @@
+.headeinfoMenu{
+    margin-top: 100px;
+    width: 80%;
+    margin-left: 10%;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 50px;
+}

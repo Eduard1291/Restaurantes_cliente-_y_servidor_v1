@@ -1,0 +1,19 @@
+.contenedorRestaurantes{
+    height: 50px;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(238, 227, 227, 0.863);
+}
+.contenedorbotones{
+    background-color: rgba(238, 227, 227, 0.863);
+}
+.elementoRestaurante{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(238, 227, 227, 0.863);
+}
+.contenedorRestaurantes:hover{
+    opacity: 0.5;
+}

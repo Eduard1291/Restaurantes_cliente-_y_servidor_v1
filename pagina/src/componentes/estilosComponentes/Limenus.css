@@ -1,0 +1,35 @@
+.limenu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aqua;
+    border-radius: 25px;
+    margin-top: 15px;
+    width: 80%;
+    margin-left: 10%;
+    
+}
+.limenu:hover{
+    background-color: aquamarine;
+}
+.tituloM{
+    display: flex;
+    justify-content: center;
+}
+.contenedorlistaMenuu{
+    width: 90%;
+    margin-top: 50px;
+    margin-left: 5%;
+    height: 450px;
+    background-color: white;
+    border-radius: 25px;
+    overflow-y:scroll;
+}
+
+.lineaeditar{
+    width: 80%;
+}
+.botonañadirr{
+    margin-top: 15px;
+    margin-left: 47%;
+}

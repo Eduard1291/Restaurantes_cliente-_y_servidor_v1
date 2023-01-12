@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5d40eb6.css",
+    "main.js": "/static/js/main.8d191013.js",
+    "static/media/agregar.png": "/static/media/agregar.2f77b7c998fe31258378.png",
+    "static/media/Restaurantes.jpg": "/static/media/Restaurantes.e51367c97f206521ff44.jpg",
+    "index.html": "/index.html",
+    "main.c5d40eb6.css.map": "/static/css/main.c5d40eb6.css.map",
+    "main.8d191013.js.map": "/static/js/main.8d191013.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5d40eb6.css",
+    "static/js/main.8d191013.js"
+  ]
+}

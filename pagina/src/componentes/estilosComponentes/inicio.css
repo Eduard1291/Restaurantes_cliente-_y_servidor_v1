@@ -1,0 +1,36 @@
+.Inicio{
+    display: flex;
+    gap: 50px;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+
+
+.Targeta{
+    height: 400px;
+    width: 300px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.Targeta:hover{
+    opacity: 0.5;
+}
+.Menus{
+    background-image: url("imagenes_inicio/Menus.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.Restaurantes{
+    background-image: url("imagenes_inicio/Restaurantes.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

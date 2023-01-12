@@ -1,0 +1,28 @@
+.editar{
+    background-image: url('imagenes_inicio/lapiz.png');
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    border-style: none;
+}
+.eliminar{
+    background-image: url('imagenes_inicio/delete.png');
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    border-style: none;
+}
+.contenedorbotones{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.eliminar:hover{
+    width: 30px;
+    height: 30px;
+}
+.editar:hover{
+    width: 30px;
+    height: 30px;
+}

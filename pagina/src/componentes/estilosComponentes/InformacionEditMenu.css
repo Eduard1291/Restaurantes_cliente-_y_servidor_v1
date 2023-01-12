@@ -1,0 +1,29 @@
+.contenedorEdit{
+    margin-top: 100px;
+    margin-left: 10%;
+    background-color: white;
+    height: 100px;
+    width: 80%;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.botonEditar{
+    background-image: url('imagenes_inicio/lapiz.png');
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    border-style: none;
+}
+.botonEditar:hover{
+    width: 30px;
+    height: 30px;
+}
+.agregarIngrediente{
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+}
