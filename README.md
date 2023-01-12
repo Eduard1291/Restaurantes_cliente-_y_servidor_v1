@@ -1,6 +1,6 @@
 # Prueba técnica 
 
-La carpeta página contiene el frontend desarrollado en angular donde la carpeta build es el proyecto compilado que se puede desplegar para ser consumidos con el comando
+La carpeta página contiene el frontend desarrollado en react donde la carpeta build es el proyecto compilado que se puede desplegar para ser consumidos con el comando
 
     serve -s build
 
